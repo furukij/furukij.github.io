@@ -1,7 +1,7 @@
 ---
 layout: page
 title: セント・ラッピー
-permalink: /strappy/
+permalink: /about/
 ---
 
 Phantasy Star Online 2  で生き急いでいるセント・ラッピー
