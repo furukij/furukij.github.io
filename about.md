@@ -1,10 +1,10 @@
 ---
 layout: page
-title: らっぴー
-permalink: /about/
+title: セント・ラッピー
+permalink: /strappy/
 ---
 
-Phantasy Star Online 2  で生き急いでいるラッピー紹介
+Phantasy Star Online 2  で生き急いでいるセント・ラッピー
 
 ### 所在
 
@@ -68,3 +68,7 @@ Ship 10 ナウシズ XH共通のどこかで活動中
 ### ところで
 
 星11武器はエクスキューブにするしかないのか？
+
+### リンク
+
+[it-tellsのプロフィール](http://ittells.jp/user/profile/?memberId=1000003795)
